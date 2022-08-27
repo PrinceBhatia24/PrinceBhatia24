@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://twitter.com/prince__bhatia" target="blank"><img src="https://img.shields.io/twitter/follow/prince__bhatia?logo=twitter&style=for-the-badge" alt="prince__bhatia" /></a> </p>
 
 - 🌱 I’m currently learning **Node.js**
+- 👨‍💻 All of my projects are available at [https://princebhatia24.github.io/My-Portfolio/](https://princebhatia24.github.io/My-Portfolio/)
 
 - 💬 Ask me about **MERN**
 
